@@ -1,0 +1,17 @@
+{
+    "DepCity": "DepCity",
+    "ArrCity": "ArrCity",
+    "subset": [
+        {
+            "Unnamed: 0": NaN,
+            "TranType": "TranType",
+            "WayType": "WayType",
+            "TrainNum": "TrainNum",
+            "TrainType": "TrainType",
+            "DepTime": "DepTime",
+            "ArrTime": "ArrTime",
+            "Month": "Month",
+            "Day": "Day"
+        }
+    ]
+}
