@@ -1,0 +1,11 @@
+,TranType,WayType,TrainNum,TrainType,DepCity,ArrCity,DepTime,ArrTime,Month,Day
+0,Train,Direct,101,KTX,Seoul,Busan,5:15,7:51,8,11
+1,Train,Direct,103,KTX,Seoul,Busan,5:30,8:17,8,11
+2,Train,Direct,1201,Mugunghwa,Seoul,Busan,5:56,11:29,8,11
+3,Train,Direct,105,KTX,Seoul,Busan,6:00,8:37,8,11
+4,Train,Direct,201,KTX,Seoul,Busan,6:05,8:54,8,11
+5,Train,Direct,1001,ITX-Saemaul,Seoul,Busan,6:16,10:55,8,11
+6,Train,Direct,107,KTX,Seoul,Busan,6:35,9:16,8,11
+7,Train,Direct,1203,Mugunghwa,Seoul,Busan,6:38,12:02,8,11
+8,Train,Direct,109,KTX,Seoul,Busan,7:00,9:40,8,11
+9,Train,Direct,1205,Mugunghwa,Seoul,Busan,7:10,12:36,8,11
